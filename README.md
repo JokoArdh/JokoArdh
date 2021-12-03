@@ -6,7 +6,7 @@
 - 💬 Ask me about you cal follow my ig (ardianto.joko)
 - 📫 How to reach me: c20010007@uby.ac.id
 - 😄 Pronouns: berjuang sampai ambrok
-- ⚡ Fun fact: terjatuh sampai menyoyo dan sakit wkwkwk
+- ⚡ Fun fact: kabeh ono dalane , kecuali dalan menyang taman sekar kedaton, ehhhee
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joko-del&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />

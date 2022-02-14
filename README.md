@@ -19,5 +19,5 @@ Debian-UBY/Debian-UBY is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 !--
-**joko-del/joko-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JokoArdh/JokoArdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

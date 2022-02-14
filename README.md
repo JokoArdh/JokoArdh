@@ -9,7 +9,7 @@
 - ⚡ Fun fact: kabeh ono dalane , kecuali dalan menyang taman sekar kedaton, ehhhee
 
 <p align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=JokoArdh=vue-dark&hide_border=true&stroke=0000&background=060A0CD0">
+  <img height="170em" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JokoArdh&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)">
 </p>
 
 ## My Github stats

@@ -9,9 +9,7 @@
 - ⚡ Fun fact: kabeh ono dalane , kecuali dalan menyang taman sekar kedaton, ehhhee
 
 <p align="center">
-    <a href="https://github.com/JokoArdh/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Joko Ardiyanto's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JokoArdh88&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JokoArdh&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </p>
 
 ## My Github stats

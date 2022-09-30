@@ -14,10 +14,10 @@
 </p>
 
 ## My Github stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JokoArdh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-## Most used language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JokoArdh)](https://github.com/JokoArdh)
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JokoArdh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JokoArdh&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 
 <!---
 Debian-UBY/Debian-UBY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
